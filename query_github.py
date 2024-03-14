@@ -2,7 +2,7 @@ import requests
 import os
 
 #change to your github personal token
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = ""
 HEADERS = {
     "Authorization": f"token {GITHUB_TOKEN}",
     "Accept": "application/vnd.github.v3+json"
