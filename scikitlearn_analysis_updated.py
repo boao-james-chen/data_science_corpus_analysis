@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 import pytz
 import re
 
+#extract sklearn functions from import statement
 DOWNLOAD_PATH = "/Users/cba/Desktop/github_datascience_code/download_code/sklearn_function_sequence_usage.csv"
 
 def find_timestamp_files(directory):
