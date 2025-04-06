@@ -1,0 +1,21 @@
+Most Common Sequences:
+General Model Training (.fit()) -> Prediction (.predict()): 1534 times
+General Model Training (.fit()) -> Data Transformation (.transform()): 1184 times
+Prediction (.predict()) -> General Model Training (.fit()): 1096 times
+General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()): 961 times
+Data Transformation (.transform()) -> General Model Training (.fit()): 950 times
+General Model Training (.fit()) -> Data Transformation (.transform()) -> General Model Training (.fit()): 836 times
+Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()): 820 times
+General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()): 766 times
+Data Transformation (.transform()) -> General Model Training (.fit()) -> Data Transformation (.transform()): 704 times
+Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()): 663 times
+General Model Training (.fit()) -> Data Transformation (.transform()) -> General Model Training (.fit()) -> Data Transformation (.transform()): 657 times
+General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()): 633 times
+Data Transformation (.transform()) -> General Model Training (.fit()) -> Data Transformation (.transform()) -> General Model Training (.fit()): 548 times
+Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()): 547 times
+General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()): 529 times
+General Model Training (.fit()) -> Data Transformation (.transform()) -> General Model Training (.fit()) -> Data Transformation (.transform()) -> General Model Training (.fit()): 522 times
+Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()): 491 times
+General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()) -> Prediction (.predict()) -> General Model Training (.fit()): 476 times
+Data Transformation (.transform()) -> General Model Training (.fit()) -> Data Transformation (.transform()) -> General Model Training (.fit()) -> Data Transformation (.transform()): 458 times
+General Model Training (.fit()) -> Data Transformation (.transform()) -> General Model Training (.fit()) -> Data Transformation (.transform()) -> General Model Training (.fit()) -> Data Transformation (.transform()): 439 times
